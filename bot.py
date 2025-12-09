@@ -1,3 +1,5 @@
+# force redeploy
+
 import logging
 from flask import Flask, request
 from telegram import Bot, Update, KeyboardButton, ReplyKeyboardMarkup, WebAppInfo
